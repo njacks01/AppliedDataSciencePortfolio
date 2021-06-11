@@ -1,4 +1,4 @@
-# IST 71: Information Visualization
+# IST 719: Information Visualization
 
 ## N'Dea Jackson
 
