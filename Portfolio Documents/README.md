@@ -15,5 +15,6 @@ The Applied Data Science program at Syracuse University's School of Information 
 3. [Portfolio Presentation Slides](https://github.com/njacks01/AppliedDataSciencePortfolio/blob/main/Portfolio%20Documents/N'Dea_Jackson_Portfolio_Presentation.pdf)
    - Slides for portfolio presentation
 
-4. [Final Portfolio Report]()
+4. [Final Portfolio Report](https://github.com/njacks01/AppliedDataSciencePortfolio/blob/main/Portfolio%20Documents/N'Dea_Jackson_Portfolio.pdf)
    - Report that covers the four projects detailed in the main repository
+
